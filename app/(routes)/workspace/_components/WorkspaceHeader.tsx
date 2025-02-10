@@ -7,7 +7,7 @@ function WorkspaceHeader({onSave}:any) {
   return (
     <div className='p-3 border-b flex justify-between items-center'>
       <div className='flex gap-2 items-center'>
-        <Image src={'/logo-1.png'}
+        <Image src={'/figma-logo.svg'}
           alt='logo'
           height={40}
           width={40} />
